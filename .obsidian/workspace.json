@@ -30,9 +30,39 @@
               "icon": "lucide-file",
               "title": "Day Planner Release 0.27.0"
             }
+          },
+          {
+            "id": "b4d220e8d1b12cbd",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Jan, 6–Jan, 8"
+            }
+          },
+          {
+            "id": "4eacd82b0ff85293",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Jan, 6–Jan, 8"
+            }
+          },
+          {
+            "id": "e65a4dd71107a2e4",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Jan, 6–Jan, 8"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +226,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "f6c1f629d4f9fbfe",
+  "active": "e65a4dd71107a2e4",
   "lastOpenFiles": [
     "Untitled.canvas",
     "1.6.md",
