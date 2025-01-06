@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +177,7 @@
   "active": "40d4e498b28c3002",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "1.6.md"
+    "1.6.md",
+    "README.md"
   ]
 }
