@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "obsidian-day-planner",
-  "dataview"
+  "dataview",
+  "editing-toolbar",
+  "obsidian-kanban",
+  "tag-wrangler"
 ]

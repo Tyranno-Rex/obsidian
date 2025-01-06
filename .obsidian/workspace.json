@@ -8,20 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "308ce994b06584d0",
+            "id": "792755c358f0ec2d",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Jan, 6–Jan, 8"
+            }
+          },
+          {
+            "id": "979276b6891cbeae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2025-01-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-01-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,12 +176,11 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 770.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +192,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f1828370afd2060",
+  "active": "29742f5ece78bc39",
   "lastOpenFiles": [
+    "README.md",
     "2025-01-06.md",
     "1.6.md",
-    "Untitled.canvas",
-    "README.md"
+    "Untitled.canvas"
   ]
 }
