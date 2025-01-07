@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "979276b6891cbeae",
+  "active": "6f1828370afd2060",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "2025-01-07.md",
