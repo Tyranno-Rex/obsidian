@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "05550d82e2c624e7",
+            "id": "1be11c9af6cb9486",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -177,11 +177,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 557.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +200,12 @@
   },
   "active": "353b0e6584db65a7",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "Tags",
     "dayWriter/2025-01/2025-01-06.md",
+    "dayWriter/2025-01/2025-01-07.md",
+    "Untitled Kanban.md",
     "dayWriter/dayWriter.md",
     "dayWriter/2025-01/2025-01.md",
-    "dayWriter/2025-01/2025-01-07.md",
     "dayWriter/Untitled.md",
     "dayWriter/2025-01",
     "README.md",
@@ -213,7 +214,6 @@
     "dayWriter",
     "Excalidraw/Drawing 2025-01-07 13.46.21.excalidraw.md",
     "Excalidraw",
-    "Tags",
     "1.6.md",
     "Untitled.canvas"
   ]
