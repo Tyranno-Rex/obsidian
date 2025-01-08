@@ -36,6 +36,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//dayWriter/dayWriter/2025-01",
     "//dayWriter"
   ],
   "expandFolderOnClick": true,

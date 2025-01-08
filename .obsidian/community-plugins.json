@@ -1,12 +1,12 @@
 [
   "obsidian-git",
-  "obsidian-day-planner",
-  "dataview",
   "editing-toolbar",
   "obsidian-kanban",
   "tag-wrangler",
   "harper",
   "make-md",
   "obsidian-excalidraw-plugin",
-  "auto-card-link"
+  "auto-card-link",
+  "dataview",
+  "obsidian-day-planner"
 ]

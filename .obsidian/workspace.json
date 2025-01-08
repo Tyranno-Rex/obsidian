@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8278c68b547c0053",
+        "id": "327511d6888868d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e220ecdb13087de0",
+            "id": "737d9ad13fd35265",
             "type": "leaf",
             "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Jan, 8–Jan, 10"
+              "type": "markdown",
+              "state": {
+                "file": "dayWriter/2025-01/2025-01-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-08"
             }
           }
         ]
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "aa6ad5edbe58ea47",
+            "id": "fe1ca8ed3494a8b0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4bfa16404143dc64",
@@ -100,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-07.md",
+                "file": "dayWriter/2025-01/2025-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-07"
+              "title": "Backlinks for 2025-01-08"
             }
           },
           {
@@ -119,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-07.md",
+                "file": "dayWriter/2025-01/2025-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-07"
+              "title": "Outgoing links from 2025-01-08"
             }
           },
           {
@@ -146,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-07.md"
+                "file": "dayWriter/2025-01/2025-01-08.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-07"
+              "title": "Outline of 2025-01-08"
             }
           },
           {
@@ -163,7 +167,7 @@
             }
           },
           {
-            "id": "6f1828370afd2060",
+            "id": "7a7a2c40c0a01483",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -173,11 +177,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,12 +198,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e220ecdb13087de0",
+  "active": "737d9ad13fd35265",
   "lastOpenFiles": [
     "dayWriter/2025-01/2025-01-07.md",
-    "Tags",
-    "dayWriter/2025-01/2025-01-06.md",
+    "dayWriter/2025-01/2025-01-08.md",
     "Untitled Kanban.md",
+    "dayWriter/2025-01/2025-01-08.md",
+    "dayWriter/2025-01/2025-01-06.md",
+    "2025-01-09.md",
+    "Tags",
     "dayWriter/dayWriter.md",
     "dayWriter/2025-01/2025-01.md",
     "dayWriter/Untitled.md",
