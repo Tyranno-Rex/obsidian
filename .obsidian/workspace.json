@@ -4,24 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "327511d6888868d2",
+        "id": "11ff80de87705458",
         "type": "tabs",
         "children": [
           {
-            "id": "737d9ad13fd35265",
+            "id": "e491e134bbd52c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "dayWriter/2025-01/2025-01-09.md",
-                "mode": "source",
-                "source": false
+                "path": "study"
               },
               "icon": "lucide-file",
-              "title": "2025-01-09"
+              "title": "study"
+            }
+          },
+          {
+            "id": "0938e48339bbc34d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "study/Drawing 2025-01-09 20.12.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-09 20.12.41.excalidraw"
+            }
+          },
+          {
+            "id": "2e134a306c6b094d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "study/Drawing 2025-01-09 20.12.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-09 20.12.41.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +97,7 @@
             }
           },
           {
-            "id": "fe0154337f6ec925",
+            "id": "03de46d5deaee93a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,25 +121,6 @@
         "id": "28cd8f703417eada",
         "type": "tabs",
         "children": [
-          {
-            "id": "29742f5ece78bc39",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dayWriter/2025-01/2025-01-08.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-08"
-            }
-          },
           {
             "id": "7914b872633ba089",
             "type": "leaf",
@@ -157,6 +161,25 @@
             }
           },
           {
+            "id": "29742f5ece78bc39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "study/Drawing 2025-01-09 20.12.41.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-01-09 20.12.41.excalidraw"
+            }
+          },
+          {
             "id": "98afe009b4ca7559",
             "type": "leaf",
             "state": {
@@ -177,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,27 +221,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "737d9ad13fd35265",
+  "active": "2e134a306c6b094d",
   "lastOpenFiles": [
-    "dayWriter/dayWriter.md",
-    "Vault.md",
+    "Excalidraw/Drawing 2025-01-09 20.12.50.excalidraw.md",
+    "study/study.md",
+    "study/Untitled.canvas",
+    "Excalidraw/Excalidraw.md",
+    "study/Drawing 2025-01-09 20.12.41.excalidraw.md",
+    "Excalidraw",
+    "study/Untitled.md",
     "dayWriter/2025-01/2025-01-09.md",
-    "dayWriter/2025-01/2025-01.md",
     "Untitled.md",
+    "study",
+    "dayWriter/2025-01/2025-01-08.md",
+    "dayWriter/2025-01/2025-01-07.md",
+    "dayWriter/2025-01/2025-01-06.md",
+    "dayWriter/2025-01/2025-01.md",
+    "dayWriter/dayWriter.md",
+    "Untitled.canvas",
+    "Tags/Untitled 1.md",
+    "Tags/Untitled.md",
+    "Vault.md",
     "asf/asf.md",
     "asf",
     "Tags",
-    "dayWriter/2025-01/2025-01-08.md",
-    "dayWriter/2025-01/2025-01-07.md",
     "Untitled Kanban.md",
-    "dayWriter/2025-01/2025-01-06.md",
     "dayWriter/Untitled.md",
     "dayWriter/2025-01",
     "README.md",
     "dayWriter",
     "Excalidraw/Drawing 2025-01-07 13.46.21.excalidraw.md",
-    "Excalidraw",
-    "1.6.md",
-    "Untitled.canvas"
+    "1.6.md"
   ]
 }
