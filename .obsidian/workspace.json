@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "11ff80de87705458",
+        "id": "a668161d57531e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e491e134bbd52c93",
+            "id": "3abecbdc627ad0f8",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "study"
+                "file": "dayWriter/2025-01/2025-01-10.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "study"
-            }
-          },
-          {
-            "id": "0938e48339bbc34d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "study/Drawing 2025-01-09 20.12.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-09 20.12.41.excalidraw"
-            }
-          },
-          {
-            "id": "2e134a306c6b094d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "study/Drawing 2025-01-09 20.12.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-09 20.12.41.excalidraw"
+              "title": "2025-01-10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +74,7 @@
             }
           },
           {
-            "id": "03de46d5deaee93a",
+            "id": "f34d3865985b8704",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -221,24 +198,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e134a306c6b094d",
+  "active": "3abecbdc627ad0f8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-09 20.12.50.excalidraw.md",
-    "study/study.md",
-    "study/Untitled.canvas",
-    "Excalidraw/Excalidraw.md",
-    "study/Drawing 2025-01-09 20.12.41.excalidraw.md",
-    "Excalidraw",
-    "study/Untitled.md",
-    "dayWriter/2025-01/2025-01-09.md",
-    "Untitled.md",
-    "study",
     "dayWriter/2025-01/2025-01-08.md",
+    "dayWriter/2025-01/2025-01-09.md",
+    "dayWriter/2025-01/2025-01-10.md",
+    "Untitled.canvas",
     "dayWriter/2025-01/2025-01-07.md",
     "dayWriter/2025-01/2025-01-06.md",
     "dayWriter/2025-01/2025-01.md",
     "dayWriter/dayWriter.md",
-    "Untitled.canvas",
+    "study/Drawing 2025-01-09 20.12.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-09 20.12.50.excalidraw.md",
+    "study/study.md",
+    "study/Untitled.canvas",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw",
+    "study/Untitled.md",
+    "Untitled.md",
+    "study",
     "Tags/Untitled 1.md",
     "Tags/Untitled.md",
     "Vault.md",

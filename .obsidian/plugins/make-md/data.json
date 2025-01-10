@@ -36,9 +36,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//Tags",
     "//dayWriter/dayWriter/2025-01",
-    "//study",
-    "//Excalidraw"
+    "//Excalidraw",
+    "//dayWriter"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
