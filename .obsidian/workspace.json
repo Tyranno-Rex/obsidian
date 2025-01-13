@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dayWriter/dayWriter Format.md",
+                "file": "dayWriter/2025-01/2025-01-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dayWriter Format"
+              "title": "2025-01-13"
+            }
+          },
+          {
+            "id": "cc1e6ce250363832",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,15 +218,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c86f3661f3a71a6f",
+  "active": "cc1e6ce250363832",
   "lastOpenFiles": [
     "dayWriter/2025-01/2025-01-13.md",
+    "dayWriter/dayWriter Format.md",
     "dayWriter/2025-01/2025-01-06.md",
     "dayWriter/2025-01/2025-01-10.md",
     "dayWriter/2025-01/2025-01-09.md",
     "dayWriter/2025-01/2025-01-08.md",
     "dayWriter/2025-01/2025-01-07.md",
-    "dayWriter/dayWriter Format.md",
     "Vault.md",
     "dayWriter/dayWriter.md",
     "dayWriter/2025-01/2025-01.md",
