@@ -1,10 +1,8 @@
 ---
-sticker: emoji//1f4c6
+sticker: emoji//1f481
 ---
-
 #today #work 
 
-day Writer template
 - [ ] 10:00 - 10:30 
 - [ ] 10:30 - 11:00 
 - [ ] 11:00 - 12:00 
