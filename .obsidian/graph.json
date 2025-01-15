@@ -5,18 +5,26 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#daywriter  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.8,
+  "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.84817708333333,
   "lineSizeMultiplier": 1.15911458333333,
   "collapse-forces": false,
-  "centerStrength": 0.283854166666667,
-  "repelStrength": 9.42708333333333,
-  "linkStrength": 0.658854166666667,
-  "linkDistance": 300,
-  "scale": 0.22920135941749398,
-  "close": true
+  "centerStrength": 0.5390625,
+  "repelStrength": 15.6770833333333,
+  "linkStrength": 0.408854166666667,
+  "linkDistance": 455,
+  "scale": 0.4505081176757852,
+  "close": false
 }
