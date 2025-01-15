@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#daywriter  ",
+      "query": "tag:#2025-01  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -26,5 +26,5 @@
   "linkStrength": 0.408854166666667,
   "linkDistance": 455,
   "scale": 0.4505081176757852,
-  "close": true
+  "close": false
 }
