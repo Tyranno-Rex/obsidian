@@ -38,7 +38,9 @@
     "/",
     "//Excalidraw",
     "//Tags",
-    "//study"
+    "//study",
+    "//dayWriter",
+    "//dayWriter/dayWriter/2025-01"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
