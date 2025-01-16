@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "1d75c4eb223c9b62",
+            "id": "73af08819607bf10",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -181,9 +181,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "93f0a4b3008d6f50",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,14 +211,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "49786f56d5b41029",
   "lastOpenFiles": [
     "study/cs/redis.md",
-    "study/Untitled.md",
     "dayWriter/2025-01/2025-01-16.md",
+    "study/Untitled.md",
     "dayWriter/2025-01/2025-01-15.md",
     "dayWriter/2025-01/2025-01-14.md",
     "dayWriter/dayWriter.md",
