@@ -38,11 +38,10 @@
     "/",
     "//Excalidraw",
     "//Tags",
-    "//study",
-    "//study/study/error",
-    "//study/study/cs",
     "//dayWriter",
-    "//dayWriter/dayWriter/2025-01"
+    "//dayWriter/dayWriter/2025-01",
+    "//study",
+    "//study/study/cs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

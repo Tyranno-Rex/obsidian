@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dayWriter/2025-01/2025-01-15.md",
+                "file": "dayWriter/2025-01/2025-01-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-15"
+              "title": "2025-01-16"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "da12163c5a9e89b1",
+            "id": "1d75c4eb223c9b62",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,17 +206,20 @@
   },
   "active": "49786f56d5b41029",
   "lastOpenFiles": [
-    "dayWriter/2025-01/2025-01.md",
-    "dayWriter/dayWriter.md",
-    "study/error/Socket Condition.md",
+    "study/cs/redis.md",
+    "study/Untitled.md",
+    "dayWriter/2025-01/2025-01-16.md",
     "dayWriter/2025-01/2025-01-15.md",
+    "dayWriter/2025-01/2025-01-14.md",
+    "dayWriter/dayWriter.md",
+    "dayWriter/2025-01/2025-01.md",
+    "study/error/Socket Condition.md",
     "study/study.md",
     "Tags/Tags.md",
     "study/cs/cs.md",
     "study/error/error.md",
     "study/cs",
     "study/error",
-    "dayWriter/2025-01/2025-01-14.md",
     "dayWriter/2025-01/2025-01-08.md",
     "dayWriter/2025-01/2025-01-07.md",
     "dayWriter/2025-01/2025-01-09.md",
@@ -235,12 +238,9 @@
     "Excalidraw",
     "study",
     "Tags/Untitled 1.md",
-    "Tags/Untitled.md",
-    "asf/asf.md",
     "asf",
     "Tags",
     "dayWriter/2025-01",
-    "README.md",
     "dayWriter"
   ]
 }
