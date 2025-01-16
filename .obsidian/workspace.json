@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "dc0e1cb61c6d0d94",
+            "id": "da12163c5a9e89b1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,7 +83,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,9 +206,11 @@
   },
   "active": "49786f56d5b41029",
   "lastOpenFiles": [
+    "dayWriter/2025-01/2025-01.md",
+    "dayWriter/dayWriter.md",
     "study/error/Socket Condition.md",
-    "study/study.md",
     "dayWriter/2025-01/2025-01-15.md",
+    "study/study.md",
     "Tags/Tags.md",
     "study/cs/cs.md",
     "study/error/error.md",
@@ -219,8 +222,6 @@
     "dayWriter/2025-01/2025-01-09.md",
     "dayWriter/2025-01/2025-01-10.md",
     "dayWriter/2025-01/2025-01-13.md",
-    "dayWriter/dayWriter.md",
-    "dayWriter/2025-01/2025-01.md",
     "Untitled.canvas",
     "dayWriter/2025-01/2025-01-06.md",
     "Vault.md",

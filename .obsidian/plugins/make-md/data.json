@@ -40,7 +40,9 @@
     "//Tags",
     "//study",
     "//study/study/error",
-    "//study/study/cs"
+    "//study/study/cs",
+    "//dayWriter",
+    "//dayWriter/dayWriter/2025-01"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
