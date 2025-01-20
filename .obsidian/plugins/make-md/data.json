@@ -35,13 +35,12 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Excalidraw",
-    "//Tags",
-    "//dayWriter",
-    "//dayWriter/dayWriter/2025-01",
-    "//study",
-    "//study/study/cs"
+    "//study/study/cs",
+    "//study/study/error",
+    "/",
+    "new",
+    "//study"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
