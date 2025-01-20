@@ -18,8 +18,37 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-01-20 10.23.57.excalidraw"
             }
+          },
+          {
+            "id": "3b5cb0f8ed640529",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".space/context.mdb",
+                "bFile": ".space/context.mdb",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: context.mdb"
+            }
+          },
+          {
+            "id": "3dcfa471270f84a2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,12 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-20 10.23.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-01-20 10.23.57.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -214,8 +242,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "98afe009b4ca7559",
+  "active": "3dcfa471270f84a2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2025-01-20 10.23.57.excalidraw.md",
     "Excalidraw",
     "dayWriter/dayWriter.md",
@@ -247,7 +276,6 @@
     "dayWriter/2025-01/2025-01-10.md",
     "dayWriter/2025-01/2025-01-13.md",
     "dayWriter/dayWriter Format.md",
-    "2025-01-13.md",
     "study/Untitled.canvas",
     "study",
     "asf",
