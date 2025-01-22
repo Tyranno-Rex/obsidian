@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d036bc662af996ce",
+        "id": "7b9b74f8da3eeaaf",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e5e39d18548b0d",
+            "id": "dde1eab30f52cebd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-20 10.23.57.excalidraw.md"
+                "file": "2025-01-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-20 10.23.57.excalidraw"
-            }
-          },
-          {
-            "id": "3b5cb0f8ed640529",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".space/context.mdb",
-                "bFile": ".space/context.mdb",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: context.mdb"
-            }
-          },
-          {
-            "id": "3dcfa471270f84a2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "2025-01-22"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +74,7 @@
             }
           },
           {
-            "id": "085e3c1740e976ea",
+            "id": "04998a54057f538c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -131,11 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2025-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-01-20"
             }
           },
           {
@@ -242,15 +216,24 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3dcfa471270f84a2",
+  "active": "dde1eab30f52cebd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2025-01-20 10.23.57.excalidraw.md",
-    "Excalidraw",
+    "dayWriter/2025-01/2025-01-21.md",
+    "dayWriter/2025-01/2025-01-06.md",
+    "dayWriter/2025-01/2025-01-20.md",
+    "2025-01-22.md",
+    "study/study.md",
     "dayWriter/dayWriter.md",
     "dayWriter/2025-01/2025-01-17.md",
+    "study/English/숙어 공부.md",
+    "study/English/English.md",
+    "study/English",
+    "dayWriter/2025-01/2025-01.md",
+    "dayWriter/2025-01/2025-01-10.md",
+    "Excalidraw/Drawing 2025-01-20 10.23.57.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw",
     "new/new.md",
-    "study/study.md",
     "Untitled 1.md",
     "new",
     "Untitled.canvas",
@@ -260,10 +243,7 @@
     "dayWriter/2025-01/2025-01-16.md",
     "study/error/Socket Condition.md",
     "dayWriter/2025-01/2025-01-15.md",
-    "dayWriter/2025-01/2025-01.md",
-    "dayWriter/2025-01/2025-01-06.md",
     "study/cs/redis.md",
-    "study/Untitled.md",
     "dayWriter/2025-01/2025-01-14.md",
     "Tags/Tags.md",
     "study/cs/cs.md",
@@ -271,11 +251,6 @@
     "study/cs",
     "study/error",
     "dayWriter/2025-01/2025-01-08.md",
-    "dayWriter/2025-01/2025-01-07.md",
-    "dayWriter/2025-01/2025-01-09.md",
-    "dayWriter/2025-01/2025-01-10.md",
-    "dayWriter/2025-01/2025-01-13.md",
-    "dayWriter/dayWriter Format.md",
     "study/Untitled.canvas",
     "study",
     "asf",
