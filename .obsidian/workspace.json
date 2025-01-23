@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9b74f8da3eeaaf",
+        "id": "eb2c6c6c02b33b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "dde1eab30f52cebd",
+            "id": "1a44dfca6cc4fdaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-22.md",
+                "file": "dayWriter/2025-01/2025-01-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-22"
+              "title": "2025-01-23"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#daywriter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "04998a54057f538c",
+            "id": "31a6a0d25e1cd289",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-20.md",
+                "file": "dayWriter/2025-01/2025-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-20"
+              "title": "Outgoing links from 2025-01-23"
             }
           },
           {
@@ -216,46 +216,46 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dde1eab30f52cebd",
+  "active": "98afe009b4ca7559",
   "lastOpenFiles": [
-    "dayWriter/2025-01/2025-01-21.md",
-    "dayWriter/2025-01/2025-01-06.md",
-    "dayWriter/2025-01/2025-01-20.md",
-    "2025-01-22.md",
-    "study/study.md",
-    "dayWriter/dayWriter.md",
-    "dayWriter/2025-01/2025-01-17.md",
-    "study/English/숙어 공부.md",
+    "dayWriter/2025-02/2025-02.md",
+    "dayWriter/2025-01/2025-01-23.md",
+    "Vault.md",
+    "dayWriter/2025-01/2025-01-22.md",
+    "study/error/Socket Condition.md",
+    "study/cs/redis.md",
     "study/English/English.md",
-    "study/English",
     "dayWriter/2025-01/2025-01.md",
+    "dayWriter/2025-02",
+    "dayWriter/2025-01/2025-01-21.md",
+    "dayWriter/2025-01/2025-01-20.md",
+    "dayWriter/dayWriter.md",
+    "study/study.md",
+    "dayWriter/2025-01/2025-01-17.md",
+    "dayWriter/2025-01/2025-01-16.md",
+    "dayWriter/2025-01/2025-01-15.md",
+    "dayWriter/2025-01/2025-01-14.md",
+    "dayWriter/2025-01/2025-01-13.md",
     "dayWriter/2025-01/2025-01-10.md",
+    "dayWriter/2025-01/2025-01-09.md",
+    "dayWriter/2025-01/2025-01-08.md",
+    "dayWriter/2025-01/2025-01-07.md",
+    "dayWriter/2025-01/2025-01-06.md",
+    "study/English/숙어 공부.md",
+    "study/English",
     "Excalidraw/Drawing 2025-01-20 10.23.57.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw",
     "new/new.md",
-    "Untitled 1.md",
     "new",
     "Untitled.canvas",
     "//Untitled.canvas",
-    "Untitled.md",
-    "Vault.md",
-    "dayWriter/2025-01/2025-01-16.md",
-    "study/error/Socket Condition.md",
-    "dayWriter/2025-01/2025-01-15.md",
-    "study/cs/redis.md",
-    "dayWriter/2025-01/2025-01-14.md",
-    "Tags/Tags.md",
-    "study/cs/cs.md",
-    "study/error/error.md",
     "study/cs",
     "study/error",
-    "dayWriter/2025-01/2025-01-08.md",
     "study/Untitled.canvas",
     "study",
     "asf",
     "Tags",
-    "dayWriter/2025-01",
-    "dayWriter"
+    "dayWriter/2025-01"
   ]
 }

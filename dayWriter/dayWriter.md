@@ -1,7 +1,7 @@
 ---
 sticker: emoji//270d-fe0f
 ---
-#today #work #daywriter
+#work #daywriter
 
 - [ ] 10:00 - 10:30 
 - [ ] 10:30 - 11:00 
