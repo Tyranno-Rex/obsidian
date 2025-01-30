@@ -11,14 +11,12 @@
             "id": "1a44dfca6cc4fdaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "dayWriter/2025-01/2025-01-23.md",
-                "mode": "source",
-                "source": false
+                "path": "study/error"
               },
               "icon": "lucide-file",
-              "title": "2025-01-23"
+              "title": "study/error"
             }
           }
         ]
@@ -83,8 +81,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,18 +215,18 @@
   },
   "active": "1a44dfca6cc4fdaf",
   "lastOpenFiles": [
-    "dayWriter/2025-01/2025-01-22.md",
+    "Vault.md",
+    "dayWriter/2025-01/2025-01.md",
     "dayWriter/2025-01/2025-01-23.md",
+    "dayWriter/2025-01/2025-01-22.md",
     "dayWriter/2025-02/2025-02.md",
     "dayWriter/2025-01/2025-01-21.md",
     "dayWriter/2025-01/2025-01-20.md",
     "dayWriter/2025-01/2025-01-17.md",
     "dayWriter/2025-01/2025-01-16.md",
-    "Vault.md",
     "study/error/Socket Condition.md",
     "study/cs/redis.md",
     "study/English/English.md",
-    "dayWriter/2025-01/2025-01.md",
     "dayWriter/2025-02",
     "dayWriter/dayWriter.md",
     "study/study.md",
