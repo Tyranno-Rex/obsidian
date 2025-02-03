@@ -40,7 +40,8 @@
     "new",
     "//dayWriter",
     "//study/study/English",
-    "//study"
+    "//study",
+    "//dayWriter/dayWriter/2025-02"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -52,6 +53,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
