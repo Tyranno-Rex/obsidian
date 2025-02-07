@@ -40,14 +40,21 @@
     "new",
     "//dayWriter",
     "//study/study/English",
+    "//study",
+    "//study/study/cs",
+    "//study/study/cs/study/cs/Redis",
     "//dayWriter/dayWriter/2025-02",
-    "//dayWriter/dayWriter/2025-01"
+    "//dayWriter/dayWriter/2025-01",
+    "//Day Planner",
+    "//Day Planner/Day Planner/2025-02"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Untitled.md"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
