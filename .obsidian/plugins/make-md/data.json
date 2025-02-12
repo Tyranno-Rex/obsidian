@@ -46,7 +46,11 @@
     "//dayWriter/dayWriter/2025-02",
     "//dayWriter/dayWriter/2025-01",
     "//Day Planner",
-    "//Day Planner/Day Planner/2025-02"
+    "//Day Planner/Day Planner/2025-02",
+    "//Planner",
+    "//Planner/Planner/2025-02",
+    "//Tags",
+    "//Planner/Planner/2025-01"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
