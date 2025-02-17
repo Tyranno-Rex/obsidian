@@ -11,10 +11,14 @@
             "id": "d277942ead3c6294",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Planner/2025-02/2025-02-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-17"
             }
           }
         ],
@@ -72,7 +76,7 @@
             }
           },
           {
-            "id": "37ae9d30171c7a5d",
+            "id": "2236d9465d2ff8a7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -232,12 +236,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "98afe009b4ca7559",
+  "active": "d277942ead3c6294",
   "lastOpenFiles": [
-    "2025-02-14.md",
-    "Planner/2025-02/2025-W07-1.md",
-    "2025-02-13.md",
     "Planner/Planner.md",
+    "Planner/2025-02/2025-02-17.md",
+    "Planner/2025-02/2025-W07-1.md",
+    "Planner/2025-02/Untitled.md",
+    "Planner/2025-02/2025-02-14.md",
+    "Planner/2025-02/2025-02-13.md",
     "Planner/2025-02/2025-02-11.md",
     "Planner/2025-02/2025-02-10.md",
     "Planner/2025-02/2025-02-07.md",
@@ -260,8 +266,6 @@
     "Planner/2025-01/2025-01-21.md",
     "Planner/2025-01/2025-01-20.md",
     "Planner/2025-01/2025-01-17.md",
-    "Planner/2025-01/2025-01-13.md",
-    "Planner/2025-01/2025-01-10.md",
     "Untitled.canvas",
     "study/cs/Redis",
     "Tags",
