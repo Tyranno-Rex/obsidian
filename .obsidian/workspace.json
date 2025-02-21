@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab336f22f32b250",
+        "id": "66da2bbcbc38434f",
         "type": "tabs",
         "children": [
           {
-            "id": "d277942ead3c6294",
+            "id": "448a73f3749672fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-19.md",
+                "file": "2025-02-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-19"
+              "title": "2025-02-20"
             }
           }
         ],
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "ad2d31552119987e",
+            "id": "1e1402e36b4b26e4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,18 +236,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d277942ead3c6294",
+  "active": "448a73f3749672fe",
   "lastOpenFiles": [
+    "2025-02-20.md",
+    "Planner/2025-02/2025-02-19.md",
+    "Planner/Planner.md",
+    "Planner/2025-02/2025-02-13.md",
+    "Planner/2025-02/2025-02-14.md",
+    "Planner/2025-02/2025-02-17.md",
+    "Planner/2025-02/Untitled.md",
     "Planner/2025-02/2025-02-07.md",
     "Planner/2025-02/2025-W07-1.md",
     "Planner/2025-02/2025-02-10.md",
     "Planner/2025-02/2025-02-11.md",
-    "2025-02-19.md",
-    "Planner/Planner.md",
-    "Planner/2025-02/2025-02-17.md",
-    "Planner/2025-02/Untitled.md",
-    "Planner/2025-02/2025-02-14.md",
-    "Planner/2025-02/2025-02-13.md",
     "Planner/2025-01/2025-01-15.md",
     "Planner/2025-01/2025-01-16.md",
     "Planner/2025-01/2025-01-14.md",
@@ -265,7 +266,6 @@
     "Planner/2025-01/2025-01-23.md",
     "Planner/2025-01/2025-01-22.md",
     "Planner/2025-01/2025-01-21.md",
-    "Planner/2025-01/2025-01-20.md",
     "Untitled.canvas",
     "study/cs/Redis",
     "Tags",
